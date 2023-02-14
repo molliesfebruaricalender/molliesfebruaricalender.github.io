@@ -9,7 +9,7 @@ let day_1 = [` <h1>6e Februari</h1>
 
 ]
 let day_2 =   [`<h1>7e Februari</h1>
-<label>Cultural appropiation kan va kul, Villes beteenden är skumma. Idag så ska du...</label>
+<label>Villes beteenden är skumma. Idag så ska du...</label>
  `,
 `<h1>7e Februari</h1>
 <label>Idag ska du bongo trumma!</label>
@@ -20,16 +20,16 @@ let day_2 =   [`<h1>7e Februari</h1>
 
 let day_3 = [
 `<h1>8e Februari</h1>
-<label>Lyssna på Ville han kan ge dig tips. Idag ska du lära dig...</label>
+<label>Lyssna på Ville han kan ge dig tips. Idag ska du...</label>
 `,
 `<h1>8e Februari</h1>
-<label>Idag ska du Lära dig knyta slips!</label>
+<label>Idag ska du knyta slips!</label>
 <iframe width="420" height="315"
     src="https://www.youtube.com/embed/PEDvzfaNX4k">
 </iframe> `
 ]
 let day_4 = [`    <h1>9e Februari</h1>
-<label>Liksom Rollerderby, Lite stryk får du tåla. Idag ska du...</label>
+<label>Slå VillePille på käften, Lite stryk får han tåla. Idag ska du...</label>
 `
     ,`    <h1>9e Februari</h1>
 <label>Idag ska du en tavla måla</label>
@@ -42,18 +42,18 @@ let day_5 = [`  <h1>10e Februari</h1>
 `,
     
     `  <h1>10e Februari</h1>
-<label>Idag ska du dricka cola och inte göra ETT SKIT!</label>
+<label>Idag ska du dricka cola och inte göra ett skit!</label>
 <iframe width="420" height="315"
     src="https://www.youtube.com/embed/fuq3Bq3cM-Q">
 </iframe> `
 ]
 let day_6 = [
     ` <h1>11e Februari</h1>
-<label>Gör nått fett, våga chansa. Idag ska vi faktiskt....</label>
+<label>Dump his ass, våga chansa. Idag ska du faktiskt....</label>
 
 `
     ,` <h1>11e Februari</h1>
-<label>Idag ska vi lära oss dansa!</label>
+<label>Idag ska du lära dig dansa!</label>
 <iframe width="420" height="315"
     src="https://www.youtube.com/embed/ujREEgxEP7g">
 </iframe> 
@@ -67,7 +67,7 @@ let day_7 = [`    <h1>12e Februari</h1>
     src="https://www.youtube.com/embed/4MV0RQEolB0">
 </iframe> `]
 let day_8 = [`    <h1>13e Februari</h1>
-<label>Fuck alla barn i afrika det är vara PR! Idag ska du...</label>
+<label>Fuck alla barn i afrika det är bara PR! Idag ska du...</label>
 `,
 `    <h1>13e Februari</h1>
 <label>Idag ska du kolla VR</label>
